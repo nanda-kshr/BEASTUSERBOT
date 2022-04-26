@@ -4,9 +4,9 @@ from telethon import TelegramClient
 
 
 
-api_id = 2724713
-api_hash = "fbcd36359ec632d453539eea3934c718"
-bot_token = '5015741515:AAENkLa22nkzrnGhShIVajlTRRlwidQ9mzs'
+api_id = 
+api_hash =
+bot_token =
 
 client = TelegramClient('man', api_id, api_hash)
 
