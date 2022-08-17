@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @BEASTUSERBOT
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @ELBEASTZ IN TELEGRAM
+- 👀 I’m interested in PROGRAMMING
+- 🌱 I’m currently learning TO BE MY BEST
+- 💞️ I’m looking to collaborate on GOOGLE🤕
+- 📫 How to reach me - NO WAY
 
 <!---
 BEASTUSERBOT/BEASTUSERBOT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
