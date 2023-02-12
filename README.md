@@ -2,7 +2,7 @@
 - 👀 I’m interested in PROGRAMMING
 - 🌱 I’m currently learning TO BE MY BEST
 - 💞️ I’m looking to collaborate on GOOGLE🤕
-- 📫 How to reach me - NO WAY
+- 📫 How to reach me - http://t.me/elbeastz
 
 <!---
 BEASTUSERBOT/BEASTUSERBOT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
